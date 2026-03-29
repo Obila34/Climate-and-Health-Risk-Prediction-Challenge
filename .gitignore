@@ -1,0 +1,11 @@
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# Model training artifacts
+Data/Model/catboost_info/

@@ -229,14 +229,14 @@ zone_stats = train.groupby('zone')[climate_features].agg(['mean', 'std'])
 ## ⚡ Recommended Next Steps
 
 **Phase 1 (10-15 min effort)**:
-- [ ] Increase Optuna trials to 50
-- [ ] Add SMOTE to training
-- [ ] Fine-tune CatBoost similar to LGB/XGB
+- [x] Increase Optuna trials to 50
+- [x] Add SMOTE to training
+- [x] Fine-tune CatBoost similar to LGB/XGB
 
 **Phase 2 (30-45 min effort)**:
-- [ ] Add zone × climate interactions
-- [ ] Implement simple stacking meta-learner
-- [ ] Add probability calibration
+- [x] Add zone × climate interactions
+- [x] Implement simple stacking meta-learner
+- [x] Add probability calibration
 
 **Phase 3 (60+ min effort)**:
 - [ ] Advanced feature selection (SHAP/permutation)
