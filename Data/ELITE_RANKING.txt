@@ -1,0 +1,30 @@
+================================================================================
+ELITE CANDIDATES FOR 0.84+ BREAKTHROUGH
+================================================================================
+
+Filename | Source | Threshold | Pos Rate
+--------------------------------------------------------------------------------
+elite_current_best_t0453_pos0819.csv               | current_best | 0.4530 | 0.8194
+elite_current_best_t0464_pos0796.csv               | current_best | 0.4640 | 0.7961
+elite_current_best_t0475_pos0777.csv               | current_best | 0.4750 | 0.7777
+elite_current_best_t0486_pos0760.csv               | current_best | 0.4860 | 0.7602
+elite_current_best_t0498_pos0743.csv               | current_best | 0.4980 | 0.7437
+elite_current_best_t0509_pos0721.csv               | current_best | 0.5090 | 0.7214
+elite_current_best_t052_pos0706.csv                | current_best | 0.5200 | 0.7068
+elite_current_best_t0532_pos0680.csv               | current_best | 0.5320 | 0.6806
+elite_4ce0a12_t0412_pos0818.csv                    | 4ce0a12      | 0.4120 | 0.8184
+elite_4ce0a12_t0436_pos0799.csv                    | 4ce0a12      | 0.4360 | 0.7990
+elite_4ce0a12_t046_pos0780.csv                     | 4ce0a12      | 0.4600 | 0.7806
+elite_4ce0a12_t0484_pos0763.csv                    | 4ce0a12      | 0.4840 | 0.7631
+elite_4ce0a12_t0508_pos0746.csv                    | 4ce0a12      | 0.5080 | 0.7466
+elite_4ce0a12_t0532_pos0728.csv                    | 4ce0a12      | 0.5320 | 0.7282
+elite_4ce0a12_t0556_pos0707.csv                    | 4ce0a12      | 0.5560 | 0.7078
+elite_4ce0a12_t058100_pos0680.csv                  | 4ce0a12      | 0.5810 | 0.6806
+elite_blend_60_40_t0441_pos0817.csv                | blend_60_40  | 0.4410 | 0.8175
+elite_blend_60_40_t0456_pos0797.csv                | blend_60_40  | 0.4560 | 0.7971
+elite_blend_60_40_t0472_pos0781.csv                | blend_60_40  | 0.4720 | 0.7816
+elite_blend_60_40_t0487_pos0766.csv                | blend_60_40  | 0.4870 | 0.7660
+elite_blend_60_40_t0503_pos0750.csv                | blend_60_40  | 0.5030 | 0.7505
+elite_blend_60_40_t0518_pos0732.csv                | blend_60_40  | 0.5180 | 0.7320
+elite_blend_60_40_t0534_pos0700.csv                | blend_60_40  | 0.5340 | 0.7010
+elite_blend_60_40_t055_pos0681.csv                 | blend_60_40  | 0.5500 | 0.6816
